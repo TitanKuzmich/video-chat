@@ -1,1 +1,1 @@
-web: node index.jsm
+web: node index.mjs
